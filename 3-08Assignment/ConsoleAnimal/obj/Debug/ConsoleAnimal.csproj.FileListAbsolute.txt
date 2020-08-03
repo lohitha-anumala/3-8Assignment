@@ -1,0 +1,7 @@
+E:\cSharp\ConsoleAnimal\bin\Debug\ConsoleAnimal.exe.config
+E:\cSharp\ConsoleAnimal\bin\Debug\ConsoleAnimal.exe
+E:\cSharp\ConsoleAnimal\bin\Debug\ConsoleAnimal.pdb
+E:\cSharp\ConsoleAnimal\obj\Debug\ConsoleAnimal.csprojAssemblyReference.cache
+E:\cSharp\ConsoleAnimal\obj\Debug\ConsoleAnimal.csproj.CoreCompileInputs.cache
+E:\cSharp\ConsoleAnimal\obj\Debug\ConsoleAnimal.exe
+E:\cSharp\ConsoleAnimal\obj\Debug\ConsoleAnimal.pdb

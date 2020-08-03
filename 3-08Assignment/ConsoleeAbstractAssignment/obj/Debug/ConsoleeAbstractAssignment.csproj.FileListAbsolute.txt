@@ -1,0 +1,7 @@
+E:\cSharp\ConsoleeAbstractAssignment\bin\Debug\ConsoleeAbstractAssignment.exe.config
+E:\cSharp\ConsoleeAbstractAssignment\bin\Debug\ConsoleeAbstractAssignment.exe
+E:\cSharp\ConsoleeAbstractAssignment\bin\Debug\ConsoleeAbstractAssignment.pdb
+E:\cSharp\ConsoleeAbstractAssignment\obj\Debug\ConsoleeAbstractAssignment.csprojAssemblyReference.cache
+E:\cSharp\ConsoleeAbstractAssignment\obj\Debug\ConsoleeAbstractAssignment.csproj.CoreCompileInputs.cache
+E:\cSharp\ConsoleeAbstractAssignment\obj\Debug\ConsoleeAbstractAssignment.exe
+E:\cSharp\ConsoleeAbstractAssignment\obj\Debug\ConsoleeAbstractAssignment.pdb
